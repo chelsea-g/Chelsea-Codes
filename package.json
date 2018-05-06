@@ -1,0 +1,19 @@
+{
+  "name": "chelsea-codes",
+  "version": "0.1.0",
+  "description": "Chelsea's portfolio site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelsea-g/chelsea-codes.git"
+  },
+  "author": "Chelsea Greger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chelsea-g/chelsea-codes/issues"
+  },
+  "homepage": "https://github.com/chelsea-g/chelsea-codes#readme"
+}
