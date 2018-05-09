@@ -1,3 +1,4 @@
+[![Codeship Status for chelsea-g/chelsea-codes](https://app.codeship.com/projects/63c5a5b0-32fd-0136-6fb9-0e05c0ab05bf/status?branch=master)](https://app.codeship.com/projects/288932)
 
 # ChelseaCodes
 
